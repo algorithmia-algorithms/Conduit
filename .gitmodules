@@ -1,0 +1,3 @@
+[submodule "algorithms/OpenForecast"]
+	path = algorithms/OpenForecast
+	url = https://github.com/algorithmia-algorithms/OpenForecast
